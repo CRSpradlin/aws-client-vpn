@@ -1,0 +1,6 @@
+.terraform
+.terraform.*
+
+certs
+backend.tf
+auth.tf
